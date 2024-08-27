@@ -4,7 +4,7 @@ Simple example on how to control an LED using ESF Blink Tracker and an ESP32 or 
 
 
 The code starts a HTTP server that is accessible over your home WiFi 
-and flashes the builtin led every time the app detects that your eyes are blinking. 
+and flashes the builtin LED every time the app detects that your eyes are blinking. 
 
 
 1. Edit the ino file with your WLAN credentials:

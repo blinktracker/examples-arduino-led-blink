@@ -59,7 +59,7 @@ void loop()
 
 void onHttpRequest() 
 {
-  // Check if event parameter
+  // Check the 'event' parameter
 
   String event = server.arg("event");
   if(event == "BLINK")

@@ -21,6 +21,6 @@ Enter the IP under Settings, Api-Endpoint.
 
 
 
-## License
+## API
 
-[MIT](https://choosealicense.com/licenses/mit/)
+https://blinktracker.app/docs/api

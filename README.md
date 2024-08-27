@@ -13,9 +13,9 @@ const char* password = "YourPassword";
 ```
 
 2. Once the server has started it prints the IP it is listening on to the serial monitor.
-   Go to Settings, Api-Endpoint and enter the ip:
+Enter the IP under Settings, Api-Endpoint.
 
-![]('endpoint.png')
+![](endpoint.png)
 
 
 

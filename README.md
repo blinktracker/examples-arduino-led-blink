@@ -1,6 +1,6 @@
 # examples-arduino-led-blink
 
-Simple example on how to control an LED using ESF Blink Tracker and an ESP32 or Arduino microcontroller.
+Simple example on how to control an LED with the BlinkEasy App and an ESP32 or Arduino microcontroller.
 
 
 The code starts a HTTP server that is accessible over your home WiFi 
